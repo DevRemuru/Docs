@@ -16,7 +16,7 @@ liquidity is active, transparent, and responsive, markets naturally attract
 participation.
 
 ### Key Features
--  ([Multi-Wallets Buys]((https://docs.forgex.tools/trade/batch-trading)))
+-  [Multi-Wallets Buys](https://docs.forgex.tools/trade/batch-trading)
 - Counterparty Wallets Tracking ([Learn more](https://app.gitbook.com/s/rifkNB6H4Ol3Ry4dnwut/wallet-groups/counterparty-monitor))
 - Block0 Bundling ([Learn more](https://app.gitbook.com/s/rifkNB6H4Ol3Ry4dnwut/trade/launch-a-token))
 - Time-Based Order Bundling (Block1–Block5) ([Learn more](https://app.gitbook.com/s/rifkNB6H4Ol3Ry4dnwut/trade/launch-a-token))
