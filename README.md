@@ -4,6 +4,8 @@
 
 ## The future of self market making
 
+<img width="1280" height="832" alt="Trade Page" src="https://github.com/user-attachments/assets/ab6875ca-8b85-40f5-a094-74bf8540e6ec" />
+
 Ultra-low latency, fully reliability, no-coding. All easy-to-use.
 
 ForgeX is an infrastructure-based on-chain self market making and trading
@@ -17,7 +19,7 @@ participation.
 
 ### Key Features
 -  [Multi-Wallets Buys](https://docs.forgex.tools/trade/batch-trading)
-- Counterparty Wallets Tracking ([Learn more](https://app.gitbook.com/s/rifkNB6H4Ol3Ry4dnwut/wallet-groups/counterparty-monitor))
+-  [Counterparty Wallets Tracking](https://docs.forgex.tools/wallet-groups/counterparty-monitor)
 - Block0 Bundling ([Learn more](https://app.gitbook.com/s/rifkNB6H4Ol3Ry4dnwut/trade/launch-a-token))
 - Time-Based Order Bundling (Block1–Block5) ([Learn more](https://app.gitbook.com/s/rifkNB6H4Ol3Ry4dnwut/trade/launch-a-token))
 - Anti-Mev Spot Buys ([Learn more](https://app.gitbook.com/s/rifkNB6H4Ol3Ry4dnwut/trade/batch-trading))
